@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TMC2209_SILENTSTEPSTICK") (type "KiCad") (uri "/Users/hashaamzafar/Documents/code/CADFiles/MotorController/Libraries/TMC2209_SILENTSTEPSTICK") (options "") (descr ""))
+)
